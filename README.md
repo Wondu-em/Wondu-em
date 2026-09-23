@@ -16,7 +16,7 @@
 ## 🏆 Highlight Projects  
 
 
-### 💳 GBE POS (https://github.com/BinGitHubPlus/GBE-POS)  
+### 💳 GBE POS ()  
 _Java | EMV L2 | PCI P2PE_  
 • Full-featured payment terminal app supporting contactless/swipe/insert  
 • Integrated with Verifone SDKs  
@@ -26,7 +26,7 @@ _Java | EMV L2 | PCI P2PE_
 • Integrated with Verifone SDKs  
 • Transaction batching & automatic settlement
 • Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-### 💳 Ahadu POS (https://github.com/Wonde497/Geidea_Ahadu)  
+### 💳 Ahadu POS (https://github.com/Wonde497/Geidea_Ahadu1)  
 _Kotlin | EMV L2 | PCI P2PE_  
 • Full-featured payment terminal app supporting contactless/swipe/insert  
 • Integrated with Geidea SDKs  
@@ -36,7 +36,7 @@ _Kotlin | EMV L2 | PCI P2PE_
 • Integrated with Verifone SDKs  
 • Transaction batching & automatic settlement
 • Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-### 💳 CBE POS (https://github.com/Kaleb09/XLS_X990_CBE_COM)  
+### 💳 CBE POS ()  
 _Java | EMV L2 | PCI P2PE_  
 • Full-featured payment terminal app supporting contactless/swipe/insert  
 • Integrated with Verifone SDKs  
@@ -47,7 +47,7 @@ _Java | EMV L2 | PCI P2PE_
 • Transaction batching & automatic settlement
 • Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
 
-### 🏪 TODO App (https://github.com/Wonde497/TODO-app)  
+### 🏪 TODO App (https://github.com/Wondu-em/TODO-app)  
 _Java | Firebase |   
 • Supports user authentication
 • Retrieves the user informations
@@ -72,7 +72,7 @@ I'm especially interested in:
 - Payment security research  
 
 📫 Reach me: wondifraw.emiru@gmail.com  
-🔗 [LinkedIn]https://www.linkedin.com/in/wondifraw-emiru-9a61a9312
+🔗 [LinkedIn]https://www.linkedin.com/in/wondifraw-emiru
 
 ![POS Transaction Flow](https://drive.google.com/thumbnail?id=1QfJ5-fbchgbK_-nezU-EQ-MVsIS4irP_&sz=w2000
 )  
