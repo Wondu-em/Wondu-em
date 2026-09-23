@@ -26,7 +26,7 @@ _Java | EMV L2 | PCI P2PE_
 • Integrated with Verifone SDKs  
 • Transaction batching & automatic settlement
 • Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-### 💳 Ahadu POS (https://github.com/Wonde497/Geidea_Ahadu1)  
+### 💳 Ahadu POS ()  
 _Kotlin | EMV L2 | PCI P2PE_  
 • Full-featured payment terminal app supporting contactless/swipe/insert  
 • Integrated with Geidea SDKs  
