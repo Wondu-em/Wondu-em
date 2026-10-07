@@ -1,79 +1,199 @@
-# Hi, I'm Wondifraw 👋  
-### Android Developer | POS & Payment Systems Specialist  
+# Hi, I'm Wondifraw 👋
 
-💻 **Building secure, transaction-ready mobile applications**  
-🏦 **Expert in financial-grade Android development**  
-🏦 **Support well known banks in Ethiopia like Commercial Bank of Ethiopia regarding card payment**  
-📱 **3+ published apps processing 1M+ transactions monthly**  
+### Software Engineer | .NET | React | Android | POS & Payment Systems
 
-## 🔧 Core Stack  
-- **Languages:** Java (Primary), Kotlin  
-- **Payment Tech:** ISO 8583, NFC/EMV, PCI DSS Compliance  
-- **POS Specialization:** Card-present transactions, Receipt printing, Inventory sync  
-- **Frameworks:** Android SDK, Jetpack Compose, Coroutines  
-- **Security:** Tokenization, HCE,AES, Hardware-backed keystores  
+I am a **Software Engineer with nearly 3 years of professional experience** building production software across backend systems, full-stack applications, Android applications, POS/payment systems, APIs, integrations, databases, and deployment infrastructure.
 
-## 🏆 Highlight Projects  
+My experience combines **real-world fintech/POS engineering** with modern **.NET backend and full-stack development**.
+
+I enjoy building practical software that solves real business problems — from transaction processing and payment integrations to business workflows, APIs, databases, and cloud deployment.
+
+---
+
+## 🚀 What I Build
+
+- Backend APIs & Business Systems
+- Full-Stack Web Applications
+- Android & POS Applications
+- Payment & Fintech Integrations
+- Workflow & Approval Systems
+- REST APIs & Database-Driven Applications
+- System & Device Integrations
+- Dockerized & CI/CD-Deployed Applications
+
+---
+
+## 🔧 Technology Stack
+
+### Backend
+
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- Java
+- Kotlin
+- Node.js
+- Express.js
+
+### Frontend
+
+- React
+- Vite
+- TypeScript
+- JavaScript
+- Next.js
+- HTML
+- CSS
+
+### Mobile & POS
+
+- Android
+- Java
+- Kotlin
+- Android SDK
+- POS/payment SDK integration
+- Terminal Management Systems
+
+### Databases
+
+- PostgreSQL
+- SQL
+- MongoDB
+- Firebase
+
+### DevOps & Infrastructure
+
+- Docker
+- Git
+- GitHub Actions
+- CI/CD
+- Render
+- Neon PostgreSQL
+
+### Engineering Practices
+
+- RESTful API design
+- Authentication & authorization
+- JWT
+- Role-based access control
+- Entity Framework Core
+- Modular monolith architecture
+- Layered architecture
+- Domain-driven design principles
+- Optimistic concurrency
+- Rate limiting
+- Database migrations
+- Idempotent migrations
+- Cloud deployment
+- System integration
+- Device management
+- Production troubleshooting
+
+---
+
+# ⭐ Featured Projects
+
+## 1. FlowApprove
+
+**B2B SaaS | Full Stack | Workflow Automation**
+
+FlowApprove is a B2B approval workflow platform I am building to help organizations replace fragmented approval processes across WhatsApp, paper, verbal communication, and email with structured, trackable, and auditable workflows.
+
+### Technology
+
+`React` · `Vite` · `TypeScript` · `C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `PostgreSQL` · `Docker`
+
+### Key Features
+
+- User authentication
+- Organization management
+- Approval requests
+- Approval inbox
+- Request creation and editing
+- Configurable workflows
+- Approval routing
+- Approve / reject actions
+- Request resubmission
+- Notifications
+- File attachments
+- Audit trail
+- Dashboard
+- Role-based access
+- Request status tracking
+
+### Engineering Highlights
+
+- Full-stack application development
+- Modular monolith architecture
+- REST API architecture
+- PostgreSQL persistence
+- Authentication and authorization
+- Workflow-based business logic
+- File upload and download
+- Access control
+- Audit logging
+- Cloud object storage integration
+- Architecture designed with future scalability in mind
+
+### Why I Built It
+
+Business approvals can become difficult to track when they happen through WhatsApp messages, paper documents, verbal communication, phone calls, or email.
+
+FlowApprove is designed to make approval requests structured, visible, traceable, and accountable.
+
+### My Role
+
+**Full-stack developer and product builder.**
+
+I designed and implemented the application across the frontend, backend, database, authentication, workflow logic, file management, and deployment-related infrastructure.
 
 
-### 💳 GBE POS ()  
-_Java | EMV L2 | PCI P2PE_  
-• Full-featured payment terminal app supporting contactless/swipe/insert  
-• Integrated with Verifone SDKs  
-• Transaction batching & automatic settlement
-• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-• Full-featured payment terminal app supporting contactless/swipe/insert  
-• Integrated with Verifone SDKs  
-• Transaction batching & automatic settlement
-• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-### 💳 Ahadu POS ()  
-_Kotlin | EMV L2 | PCI P2PE_  
-• Full-featured payment terminal app supporting contactless/swipe/insert  
-• Integrated with Geidea SDKs  
-• Transaction batching & automatic settlement
-• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-• Full-featured payment terminal app supporting contactless/swipe/insert  
-• Integrated with Verifone SDKs  
-• Transaction batching & automatic settlement
-• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-### 💳 CBE POS ()  
-_Java | EMV L2 | PCI P2PE_  
-• Full-featured payment terminal app supporting contactless/swipe/insert  
-• Integrated with Verifone SDKs  
-• Transaction batching & automatic settlement
-• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-• Full-featured payment terminal app supporting contactless/swipe/insert  
-• Integrated with Verifone SDKs  
-• Transaction batching & automatic settlement
-• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
+---
 
-### 🏪 TODO App (https://github.com/Wondu-em/TODO-app)  
-_Java | Firebase |   
-• Supports user authentication
-• Retrieves the user informations
-• Enables users to add tasks to be done. 
-• Supports four languages such as English,Italic,Oromifa and Amharic
-• Enables the user to change the the theme from light to dark and vice versa. 
+## 2. Order Management API
 
+**.NET 10 | ASP.NET Core | PostgreSQL | Docker | CI/CD**
 
-## 📜 Certifications  
-• **Fundamentals of Programming** (Udacity)
-• **Android programming** (Udacity)
-• **PCI Mobile Payment Acceptance Security** 
-• **Android Security Certification** (Google)  
-• **EMV Level 2 Kernel Development**  
+A production-oriented RESTful Order Management API built with **ASP.NET Core 10, Entity Framework Core, and PostgreSQL**.
 
-## 🤝 Let's Collaborate  
-I'm especially interested in: 
-- Android application development
-- Mobile application development
-- High-volume transaction processing systems  
-- Hardware/Android POS integrations  
-- Payment security research  
+The project applies practical backend engineering patterns including authentication, authorization, optimistic concurrency, API versioning, rate limiting, database resilience, Docker, and CI/CD.
 
-📫 Reach me: wondifraw.emiru@gmail.com  
-🔗 [LinkedIn]https://www.linkedin.com/in/wondifraw-emiru
+### Technology
 
-![POS Transaction Flow](https://drive.google.com/thumbnail?id=1QfJ5-fbchgbK_-nezU-EQ-MVsIS4irP_&sz=w2000
-)  
-*Sample architecture of my EMV payment flow implementation*
+`C#` · `.NET 10` · `ASP.NET Core` · `Entity Framework Core` · `PostgreSQL` · `JWT` · `Docker` · `GitHub Actions` · `Swagger/OpenAPI`
+
+### Engineering Highlights
+
+- Layered / 3-tier architecture
+- Domain-driven design principles
+- RESTful API design
+- JWT authentication and authorization
+- Role-based authorization
+- Secure password hashing
+- API versioning
+- Optimistic concurrency
+- Rate limiting
+- PostgreSQL persistence
+- Entity Framework Core
+- Database resilience
+- Idempotent database migrations
+- Swagger/OpenAPI documentation
+- Docker containerization
+- GitHub Actions CI/CD
+
+### Deployment
+
+```text
+GitHub Repository
+        ↓
+GitHub Actions
+        ↓
+Build & Validation
+        ↓
+Migration Validation
+        ↓
+Docker
+        ↓
+Deployment
